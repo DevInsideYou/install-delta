@@ -3,7 +3,7 @@
 # remove yourself
 rm $0
 
-FALLBACK_VERSION="0.8.3"
+FALLBACK_VERSION="0.9.1"
 VERSION="${1:-$FALLBACK_VERSION}"
 
 SOURCE=https://github.com/dandavison/delta/releases/download/$VERSION/git-delta_{$VERSION}_amd64.deb
