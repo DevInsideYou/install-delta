@@ -1,4 +1,4 @@
-# Installs [delta 0.11.1](https://github.com/dandavison/delta) on [Ubuntu](https://www.ubuntu.com/)
+# Installs [delta 0.11.2](https://github.com/dandavison/delta) on [Ubuntu](https://www.ubuntu.com/)
 
 ```bash
 curl -fLOs https://script.install.devinsideyou.com/delta
@@ -9,6 +9,6 @@ chmod +x delta && ./delta
 
 ```bash
 curl -fLOs https://script.install.devinsideyou.com/delta
-sudo chmod +x delta && ./delta 0.11.1
+sudo chmod +x delta && ./delta 0.11.2
 ```
 
